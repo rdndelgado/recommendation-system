@@ -1,0 +1,13 @@
+#container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Style for the generated div */
+.generated-div {
+    background-color: #f0f0f0;
+    border: 1px solid #aaa;
+    padding: 5px;
+    margin-bottom: 5px;
+}

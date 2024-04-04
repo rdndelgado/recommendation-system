@@ -1,0 +1,6 @@
+- finalized data pre_processing
+    -- converted to small caps *
+- if the customer added an item from the recommendation, update the transaction list (new_itemset)
+- update the processing of overall frequent itemsets if the system added at least 5 or 10 transactions
+- UI to be deployed on vercel app
+- integration of new datasets
